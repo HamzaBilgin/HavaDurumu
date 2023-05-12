@@ -1,0 +1,29 @@
+/* Arama kisminin css baslangici */
+.search{
+    width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 50px;
+}
+
+.cards-result{
+    width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 50px;
+}
+
+
+
+/* input[type="text"]{
+
+} */
+
+/* .search__btn {
+    position: absolute;
+    transform:scale(0);
+} */
