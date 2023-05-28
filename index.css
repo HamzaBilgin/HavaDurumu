@@ -16,8 +16,17 @@
     margin-top: 100px;
     height: 50px;
 }
-
-
+.search-result{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card__image{
+    width: 50px;
+}
+.card{
+    margin: 40px;
+}
 
 /* input[type="text"]{
 
